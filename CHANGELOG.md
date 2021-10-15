@@ -2,6 +2,10 @@
 
 Records breaking or otherwise significant changes from major version bumps.
 
+## 3.0.0
+
+Update to use python 3.8 as python 3.6 is reaching end of life.
+
 ## 2.0.0
 
 PR: [#2](https://github.com/alphagov/digitalmarketplace-test-utils/pull/8)
