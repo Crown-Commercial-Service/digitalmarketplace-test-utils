@@ -7,6 +7,21 @@ Utility functions and scripts for testing Digital Marketplace code
 This library's dependencies are deliberately kept minimal - see comment in `setup.py` before
 adding any more!
 
+## Versioning
+
+Releases of this project follow [semantic versioning](http://semver.org/), ie
+> Given a version number MAJOR.MINOR.PATCH, increment the:
+>
+> - MAJOR version when you make incompatible API changes,
+> - MINOR version when you add functionality in a backwards-compatible manner, and
+> - PATCH version when you make backwards-compatible bug fixes.
+
+To make a new version:
+- update the version in the `dmutils/__init__.py` file
+- if you are making a major change, also update the change log;
+
+When the pull request is merged a GitHub Action will tag the new version.
+
 ## Licence
 
 Unless stated otherwise, the codebase is released under [the MIT License][mit].
