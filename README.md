@@ -20,7 +20,7 @@ To make a new version:
 - update the version in the `dmutils/__init__.py` file
 - if you are making a major change, also update the change log;
 
-When the pull request is merged a Jenkins job will be run to tag the new version.
+When the pull request is merged a GitHub Action will tag the new version.
 
 ## Licence
 
