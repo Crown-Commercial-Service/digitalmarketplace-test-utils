@@ -103,3 +103,5 @@ venv*
 
 # local nix environment customizations
 local.nix
+
+.idea/

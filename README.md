@@ -1,6 +1,6 @@
 # digitalmarketplace-test-utils
 
-![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 
 Utility functions and scripts for testing Digital Marketplace code
 
