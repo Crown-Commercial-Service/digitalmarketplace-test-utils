@@ -7,4 +7,8 @@ updates:
     time: "03:00"
   open-pull-requests-limit: 10
   allow:
-    - dependency-type: production
+    - dependency-type: production- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "03:00"
